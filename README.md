@@ -3,24 +3,23 @@
 A curated collection of resources, tools, and job portals to help web developers stay sharp, build real-world projects, and prep for jobs. Focused on modern frontend-heavy full-stack development.
 
 ---
-
 ## 📚 Table of Contents
 
-1. [HTML & CSS](#html--css)
-2. [JavaScript (ES6+)](#javascript-es6)
-3. [React](#react)
-4. [Next.js](#nextjs)
-5. [UI/UX & Design Tools](#uiux--design-tools)
-6. [State Management](#state-management)
-7. [Testing](#testing)
-8. [Backend (Node.js + Express)](#backend-nodejs--express)
-9. [Databases](#databases)
-10. [Authentication & Authorization](#authentication--authorization)
-11. [DevOps & Deployment](#devops--deployment)
-12. [VS Code & Productivity](#vs-code--productivity)
-13. [Project Ideas](#project-ideas)
-14. [Interview Prep](#interview-prep)
-15. [Job Portals & Freelancing](#job-portals--freelancing)
+1. [HTML & CSS](#1-html--css)
+2. [JavaScript (ES6+)](#2-javascript-es6)
+3. [React](#3-react)
+4. [Next.js](#4-nextjs)
+5. [UI/UX & Design Tools](#5-uiux--design-tools)
+6. [State Management](#6-state-management)
+7. [Testing](#7-testing)
+8. [Backend (Node.js & Express)](#8-backend-nodejs--express)
+9. [Databases](#9-databases)
+10. [Authentication & Authorization](#10-authentication--authorization)
+11. [DevOps & Deployment](#11-devops--deployment)
+12. [VS Code & Productivity](#12-vs-code--productivity)
+13. [Project Ideas](#13-project-ideas)
+14. [Interview Prep](#14-interview-prep)
+15. [Job Portals & Freelancing](#15-job-portals--freelancing)
 
 ---
 
