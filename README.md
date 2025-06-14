@@ -2,9 +2,18 @@
 
 A curated collection of resources, tools, and job portals to help web developers stay sharp, build real-world projects, and prep for jobs. Focused on modern frontend-heavy full-stack development.
 
+## Roadmap
+
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+
 ## 1. HTML & CSS
 
-- [MDN Docs](https://developer.mozilla.org/en-US/)
+- [Web dev](https://web.dev/learn/html)
+- [learnhtmlcssonline](https://learnhtmlcss.online/)
+- [MDN learn](https://developer.mozilla.org/en-US/docs/Learn_web_development)
+- [Code academy](https://www.codecademy.com/learn/learn-html)
+- [HTML dog](https://htmldog.com/guides/)
+- [Freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -18,6 +27,7 @@ A curated collection of resources, tools, and job portals to help web developers
 - [JavaScript.info](https://javascript.info/)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [30 Days of JS](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [javascript30 projects](https://javascript30.com/)---[playlist](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 - [Frontend Masters - JS Deep Dive](https://frontendmasters.com/)
 
 ---
