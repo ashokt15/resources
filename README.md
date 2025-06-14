@@ -19,7 +19,7 @@ A curated collection of resources, tools, and job portals to help web developers
 12. [VS Code & Productivity](#12-vs-code--productivity)
 13. [Project Ideas](#13-project-ideas)
 14. [Interview Prep](#14-interview-prep)
-15. [Job Portals & Freelancing](#15-job-portals--freelancing)
+15. [Job Portals](#15-job-portals)
 
 ---
 
@@ -143,15 +143,23 @@ A curated collection of resources, tools, and job portals to help web developers
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [DSA by NeetCode](https://neetcode.io/)
 - [Behavioral Questions Cheatsheet](https://github.com/yangshun/tech-interview-handbook)
+- [Frontend practice questions](https://www.greatfrontend.com/questions)
 
 ---
 
-## 15. Job Portals & Freelancing
+## 15. Job Portals
 
 - [LinkedIn Jobs](https://linkedin.com/jobs)
 - [Himalayas](https://www.himalayas.app/)
+- [Naukri](https://www.naukri.com/mnjuser/homepage)
+- [Cutshort](https://cutshort.io/profile/candidate-dashboard)
+- [Foundit](https://www.foundit.in/seeker/dashboard)
 - [Wellfound (AngelList)](https://wellfound.com/)
+- [Glassdoor](https://www.glassdoor.co.in/Job/index.htm)
 - [Remotive](https://remotive.io/)
+- [Turing](https://developers.turing.com/dashboard/jobs)
+- [Hackerrank](https://www.hackerrank.com/apply)
+- [Hackerearth](https://www.hackerearth.com/jobs/)
 - [Turing](https://www.turing.com/)
 - [Upwork](https://www.upwork.com/)
 - [Fiverr](https://www.fiverr.com/)
