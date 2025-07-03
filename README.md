@@ -1,6 +1,8 @@
 # 🌐 Web Development Resources – Frontend Heavy (Full Stack)
 
 A curated collection of resources, tools, and job portals to help web developers stay sharp, build real-world projects, and prep for jobs. Focused on modern frontend-heavy full-stack development.
+## Cheatsheets
+-[HTML,CSS,JS](https://htmlcheatsheet.com/)
 
 ## Roadmap
 
