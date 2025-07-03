@@ -5,6 +5,7 @@ A curated collection of resources, tools, and job portals to help web developers
 ## Roadmap
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
+- [TheOdinProject](https://www.theodinproject.com/paths/full-stack-javascript?)
 
 ## 1. HTML & CSS
 
@@ -18,7 +19,9 @@ A curated collection of resources, tools, and job portals to help web developers
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Responsive Design](https://web.dev/learn/design/)
-
+- [W3Resource](https://www.w3resource.com/index.php)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/courses/)
+- [Codewars](https://www.codewars.com/)
 ---
 
 ## 2. JavaScript (ES6+)
